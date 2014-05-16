@@ -1,4 +1,4 @@
 tp
 ==
 
-Programming problems with thought out explanations
+JavaScript toy problems with thought out explanations.
